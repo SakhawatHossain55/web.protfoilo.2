@@ -1,0 +1,49 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+    margin-left: left;
+}
+h1{
+    font-size: 45px;
+    line-height: 0.4;
+    letter-spacing: -1px;
+}
+h3{
+    font-size: 25px;
+    letter-spacing: -1px;
+}
+p{
+    font-size: 20px;
+
+}
+.half-width{
+    width: 45%;
+    padding: 2%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    overflow: hidden;
+}
+.full-width{
+    background-color: #57fafa;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 5% 15% 5% 15%;
+}
+input{
+    font-size: 16px;
+    min-height: 47px;
+    padding: 6px 16px;
+    background-color: white;
+    border: none;
+    border-radius: 7px;
+}
+#color-bottom{
+    background-color: tomato;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+ 
